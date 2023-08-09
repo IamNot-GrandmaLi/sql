@@ -7,6 +7,7 @@
 ### 此外，打开SqlServer的方法：
   ### 1、如上手动打开
   ### 2、cmd 管理员权限 
-    net start mssqlsever
-  	net stop mssqlserver
-      
+     net start mssqlsever
+  	 net stop mssqlserver
+   进入管理员模式：Ctrl+shift+enter
+   
